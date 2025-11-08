@@ -63,14 +63,14 @@ The system simulates a modern classroom similar to online platforms like Zoom or
 
 ---
 
-## 📊 Output Screenshots
+## 📸 Output Screenshots  
 
-| Function | Screenshot |
-|-----------|-------------|
+| **Function** | **Screenshot** |
+|---------------|----------------|
 | **Student Join Dialog** | ![Join Dialog](Screenshots/JoinClass.png) |
-| **Teacher-Student Chat** | ![Teacher Chat](Screenshots/TeacherChat.png) |
-| **Communication between Teacher & Student** | ![Communication](Screenshots/Attendance.png) |
-| **IntelliJ IDE Code Setup** | ![Code Setup](Screenshots/StudentChat.png) |
+| **Teacher-Student Chat** | ![Teacher Chat](Screenshots/StudentChat.png) |
+| **Attendance View** | ![Attendance](Screenshots/Attendance.png) |
+| **IntelliJ IDE Code Setup** | ![Code Setup](Screenshots/CodeView.png) |
 
 
 ---
